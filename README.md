@@ -9,7 +9,7 @@ A Distributed Denial of Service (DDoS) attack is a type of denial of service att
 To get started with the design, simply clone the repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/rasi23/DDoS-attack-using-Python-and-Scapy.git
 
 Operation
 To use the design, follow these steps:
